@@ -1,5 +1,11 @@
-Version 1.
+Version 2.
 
-Chưa có gì ở đây cả.
+Một ngày nắng đẹp, ở một công ty phần mềm tên là "TechGenius," có một anh chàng lập trình viên tên là Minh. Minh thường được biết đến như một chuyên gia lập trình sáng tạo và đầy nhiệt huyết, nhưng có một điều đặc biệt với anh - mỗi khi anh viết code, đó là một chuỗi các bug.
 
-Tôi vẫn đang đi tìm ý tưởng~~
+Dù Minh có cố gắng hết sức, nhưng mỗi 30 dòng code của anh đều chứa ít nhất một lỗi. Đối với Minh, bug trở thành một phần của cuộc sống hàng ngày, nhưng cũng là nguồn cười cho đồng nghiệp.
+
+Một ngày, Minh nhận nhiệm vụ viết một chương trình quản lý dự án quan trọng. Anh ta quyết tâm chấp nhận thách thức và bắt đầu gõ code với tốc độ ánh sáng. Nhưng không ngạc nhiên, mỗi 30 dòng code của anh ta đều ẩn chứa một bug.
+
+Trong quá trình phát triển, các đồng nghiệp của Minh bắt đầu tìm cách sử dụng bug của anh làm trò đùa. Họ tạo ra một bảng điểm riêng, theo dõi số lượng bug trong mỗi đợt commit của Minh.
+
+// Đang bí ý tưởng
