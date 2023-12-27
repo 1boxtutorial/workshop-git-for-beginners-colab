@@ -6,6 +6,4 @@ Dù Minh có cố gắng hết sức, nhưng mỗi 30 dòng code của anh đề
 
 Một ngày, Minh nhận nhiệm vụ viết một chương trình quản lý dự án quan trọng. Anh ta quyết tâm chấp nhận thách thức và bắt đầu gõ code với tốc độ ánh sáng. Nhưng không ngạc nhiên, mỗi 30 dòng code của anh ta đều ẩn chứa một bug.
 
-Trong quá trình phát triển, các đồng nghiệp của Minh bắt đầu tìm cách sử dụng bug của anh làm trò đùa. Họ tạo ra một bảng điểm riêng, theo dõi số lượng bug trong mỗi đợt commit của Minh.
-
-// Đang bí ý tưởng
+Trong quá trình phát triển, các đồng nghiệp của Minh bắt đầu tìm cách sử dụng bug của anh làm trò đùa. Họ tạo ra một bảng điểm riêng, theo dõi số lượng bug trong mỗi đợt commit của Minh
