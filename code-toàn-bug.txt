@@ -1,5 +1,3 @@
-Version 2.
-
 Một ngày nắng đẹp, ở một công ty phần mềm tên là "TechGenius," có một anh chàng lập trình viên tên là Minh. Minh thường được biết đến như một chuyên gia lập trình sáng tạo và đầy nhiệt huyết, nhưng có một điều đặc biệt với anh - mỗi khi anh viết code, đó là một chuỗi các bug.
 
 Dù Minh có cố gắng hết sức, nhưng mỗi 30 dòng code của anh đều chứa ít nhất một lỗi. Đối với Minh, bug trở thành một phần của cuộc sống hàng ngày, nhưng cũng là nguồn cười cho đồng nghiệp.
